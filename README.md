@@ -37,5 +37,5 @@
 
    <img src="./images/source.png" width="300px">
 
-9. 如果你在 dspy-lab6、dspy-lab7 這兩個資料夾中，有做一些改動也會顯示，但是會 commit push 失敗，
+9. 如果你在 dspy-lab6、dspy-lab7 這兩個資料夾中，有做一些改動也會顯示，但是會 commit, synchronize 失敗，
   ==因為這兩個資料夾是助教的repo，你沒有權限可以 push==

@@ -1,6 +1,6 @@
-# dspy-lab7
+# 請務必按照步驟來 clone 資料夾
 
-1. 請先打開VScode，最上面菜單欄 File 點選 `New Window`
+1. 先打開 VScode，最上面菜單欄 File 點選 `New Window`
 2. 在新打開的這個 Window，左邊點選第二個：`Explorer` （如圖）
    
    <img src="./images/explorer.png" width="300px">

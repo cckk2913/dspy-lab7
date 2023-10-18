@@ -11,9 +11,9 @@
   
 4. 打開電腦中「這堂課專屬的資料夾」，最大的那個，裡面可能有你曾經 clone 的作業 repo、上課資料 etc.
 
- - （如圖，我的這堂課專屬資料夾是 `PYTHON_DS`，底下有很多小資料夾是之前clone的repo: hw1, hw4, dspy-lab6...)
+ - 如圖，我的這堂課專屬資料夾是 `PYTHON_DS`，底下有很多小資料夾是之前clone的repo: hw1, hw4, dspy-lab6...
 
- -  <img src="./images/pythonds.png" width="300px">
+     <img src="./images/pythonds.png" width="300px">
 
 5. 確定已經打開 **這堂課專屬資料夾**（而不是某次作業的folder、不是上週上課的folder），再到最頂端菜單欄點選 `Terminal` >> `New Terminal`
    <img src="./images/newterm.png" width="300px">
@@ -24,4 +24,4 @@
   ```bash
     git clone https://github.com/cckk2913/dspy-lab7.git
   ```
-7. 確認有多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾
+1. 確認有多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾

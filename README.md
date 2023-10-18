@@ -24,8 +24,8 @@
   <img src="./images/git.png" width="300px">
 
   指令：
-  
+
 ```bash
     git clone https://github.com/cckk2913/dspy-lab7.git
 ```
-7. 確認有多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾
+7. 確認**這堂課專屬資料夾**之下，多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾

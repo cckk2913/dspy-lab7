@@ -37,4 +37,4 @@
 
    <img src="./images/source.png" width="300px">
 
-9. 如果你改動 `dspy-lab6、dspy-lab7` 裡面的檔案，這裡也會顯示；但你要 commit, synchronize `dspy-lab6、dspy-lab7`裡面的 changes 時就會失敗，🏮🏮`因為這兩個資料夾是助教的repo，你沒有權限可以 push`🏮🏮
+9. 如果你改動 `dspy-lab6、dspy-lab7` 裡面的檔案，這裡也會顯示；但如果你嘗試 commit 和 synchronize `dspy-lab6、dspy-lab7`裡面的 changes ，就會失敗，🏮🏮`因為這兩個資料夾是助教的repo，你沒有權限可以 push`🏮🏮

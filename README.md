@@ -11,7 +11,7 @@
   
 4. 打開電腦中「這堂課專屬的資料夾」，最大的那個，裡面可能有你曾經 clone 的作業 repo、上課資料 etc.
 
- - （如圖，我的這堂課專屬資料夾是 `python_ds`，底下有很多小資料夾是之前clone的repo)
+ - （如圖，我的這堂課專屬資料夾是 `PYTHON_DS`，底下有很多小資料夾是之前clone的repo: hw1, hw4, dspy-lab6...)
 
  -  <img src="./images/pythonds.png" width="300px">
 

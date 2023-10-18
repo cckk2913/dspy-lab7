@@ -35,6 +35,6 @@
 
    - 如圖，我的這堂課專屬資料夾底下有 4個是之前clone的repo
 
-   <img src="./images/source.png" width="300px">
+    <img src="./images/source.png" width="300px">
 
 9. 如果你改動 `dspy-lab6、dspy-lab7` 裡面的檔案，這裡也會顯示；但如果你嘗試 commit 和 synchronize `dspy-lab6、dspy-lab7`裡面的 changes ，就會失敗，🏮🏮`因為這兩個資料夾是助教的repo，你沒有權限可以 push`🏮🏮

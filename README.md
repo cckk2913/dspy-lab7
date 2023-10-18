@@ -21,7 +21,7 @@
 
 6. 再到右下角，剛打開的新 Terminal，輸入下方指令（如圖）
    
-  <img src="./images/git.png" width="300px">
+    <img src="./images/git.png" width="300px">
 
   指令：
 

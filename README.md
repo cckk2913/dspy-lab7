@@ -19,7 +19,7 @@
 
    <img src="./images/newterm.png" width="300px">
 
-6. 再到右下角，剛打開的新 Terminal，輸入下方指令（如圖）
+6. 再到右下角，確認 % 前面的是這堂課專屬資料夾的名字（如圖，我的是 `python_ds`）。在剛剛打開的這個新 Terminal，輸入指令（可以複製下方的指令）
 
     <img src="./images/git.png" width="300px">
 
@@ -27,14 +27,14 @@
       git clone https://github.com/cckk2913/dspy-lab7.git
   ```
 
-7. 確認**這堂課專屬資料夾**之下，多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾
+1. 確認**這堂課專屬資料夾**之下，多出一個 `dspy-lab7` 的資料夾，裡面有 `README.md`、`lab7.ipynb`、`movie.csv`、`有的沒的.ipynb` 四個檔案 ＋ `images` 一個資料夾
    
    <img src="./images/lab7.png" width="300px">
 
-8. 做完一些改動之後，若點選左側欄第三個 Source Control，會看到**這堂課專屬資料夾**之下，有哪些資料夾是 cloned repo，能夠再 git push 回去 GitHub
+2. 做完一些改動之後，若點選左側欄第三個 Source Control，會看到**這堂課專屬資料夾**之下，有哪些資料夾是 cloned repo，能夠再 git push 回去 GitHub
 
    - 如圖，我的這堂課專屬資料夾底下有 4個是之前clone的repo
 
     <img src="./images/source.png" width="300px">
 
-9.  如果你改動 `dspy-lab6、dspy-lab7` 裡面的檔案，這裡也會顯示；但如果你嘗試 commit 和 synchronize `dspy-lab6、dspy-lab7`裡面的 changes ，就會失敗，🏮🏮`因為這兩個資料夾是助教的repo，你沒有權限可以 push`🏮🏮
+3.  如果你改動 `dspy-lab6、dspy-lab7` 裡面的檔案，這裡也會顯示；但如果你嘗試 commit 和 synchronize `dspy-lab6、dspy-lab7`裡面的 changes ，就會失敗，🏮🏮`因為這兩個資料夾是助教的repo，你沒有權限可以 push`🏮🏮

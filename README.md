@@ -3,11 +3,11 @@
 1. 先打開 VScode，最上面菜單欄 File 點選 `New Window`
 2. 在新打開的這個 Window，左邊點選第二個：`Explorer` （如圖）
 
-   <img src="./images/explorer.png" width="300px">
+   <img src="./images/explorer.png" width="500px">
 
 3. 點選 Explorer 後，點選 `Open Folder`（如圖）
 
-   <img src="./images/openfolder.png" width="300px">
+   <img src="./images/openfolder.png" width="500px">
   
 4. 打開電腦中「這堂課專屬的資料夾」，最大的那個，裡面可能有你曾經 clone 的作業 repo、上課資料 etc.
 

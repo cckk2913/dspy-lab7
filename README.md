@@ -17,7 +17,7 @@
 
 5. 確定打開 ❗️**這堂課專屬資料夾**❗️（不是某次作業的folder、不是上週上課的folder），再到最頂端菜單欄點選 `Terminal` >> `New Terminal`
 
-   <img src="./images/newterm.png" width="300px">
+   <img src="./images/newterm.png" width="500px">
 
 6. 再到右下角，確認 % 前面的是這堂課專屬資料夾的名字（如圖，我的是 `python_ds`）。在剛剛打開的這個新 Terminal，輸入指令（可以複製下方的指令）
 

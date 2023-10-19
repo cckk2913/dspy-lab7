@@ -15,7 +15,7 @@
 
      <img src="./images/pythonds.png" width="300px">
 
-5. 確定已經打開 **這堂課專屬資料夾**（不是某次作業的folder、不是上週上課的folder），再到最頂端菜單欄點選 `Terminal` >> `New Terminal`
+5. 確定打開 ❗️**這堂課專屬資料夾**❗️（不是某次作業的folder、不是上週上課的folder），再到最頂端菜單欄點選 `Terminal` >> `New Terminal`
 
    <img src="./images/newterm.png" width="300px">
 

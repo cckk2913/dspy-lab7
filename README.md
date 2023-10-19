@@ -19,9 +19,11 @@
 
    <img src="./images/newterm.png" width="500px">
 
-6. 再到右下角，確認 % 前面的是這堂課專屬資料夾的名字（如圖，我的是 `python_ds`）。在剛剛打開的這個新 Terminal，輸入指令（可以複製下方的指令）
+6. 再到右下角，確認 % 前面的是這堂課專屬資料夾的名字（如圖，我的是 `python_ds`）。在剛剛打開的這個新 Terminal，輸入指令
 
-    <img src="./images/git.png" width="600px">
+   - <img src="./images/git.png" width="600px">
+
+   - （可以複製下方的指令，貼到你的 Terminal）
 
   ```bash
       git clone https://github.com/cckk2913/dspy-lab7.git
